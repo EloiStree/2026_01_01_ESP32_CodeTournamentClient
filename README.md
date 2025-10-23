@@ -1,4 +1,4 @@
-# 2026_01_01_ESP32_CodeTournamentClient
+# ESP32: Code Tournament Client
 > Begin here to develop your client in Arduino code with the goal of participating in a LAN tournament.
 
 The objective is to provide a sandbox environment for running participants' code in Arduino CPP.   
